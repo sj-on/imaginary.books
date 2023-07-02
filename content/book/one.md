@@ -5,4 +5,11 @@ order: 1
 tags: young adult, fantasy, fiction
 -->
 
-every kid wants to be the protagonist of this story. heck yeah. manipulation tactics sucessful! what more could one have asked for!
+featuring:
+- absent parents,
+- abusive teachers,
+- a prophecy,
+- irresponsible grown-ups, and 
+- child actors who aren't old enough to be hot yet in the feature-length adaptation.
+
+what more could a kid have asked for! (oh, yeah. the girl with the brains as one of the sidekicks. #diversity.)

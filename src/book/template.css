@@ -20,6 +20,10 @@ h1{
   text-align: center;
 }
 
+#tags{
+  font-style: italic;
+}
+
 @media screen and (max-width: 525px) {
   .note {
     flex-direction: column;
