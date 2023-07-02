@@ -1,12 +1,10 @@
 <!--
-title: the pizzaman from the west coast
+title: mutual dependence doesn't equate to self-reliance. also, nutcrackers.
 slug: book/two
 order: 2
-tags: young adult, fantasy
+tags: non-fiction, self-help, social media
 -->
 
-i am cool. did i tell you that? here, i wrote a book. please read it and give me your money. oops, i meant pizza. grrr. i am a lion.
+ever wondered how linkedin posts get made? when 'early success' meets 'the constant need to be an attention attractor and a validation seeker' meets 'holier-than-thou morals', that's when... trust me.
 
-thanks,
-
-percy
+i am a 23-yo and i have got all my life figured out. and so should you. because i said so. (i know everything.)

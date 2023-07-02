@@ -1,8 +1,8 @@
 <!--
-title: rick riordan and percy's weird pizza obsession
+title: firstname lastname and the figment of author's imagination
 slug: book/one
 order: 1
-tags: who knows, who cares
+tags: young adult, fantasy, fiction
 -->
 
-percy tries to play it cool but is actually dumb.
+every kid wants to be the protagonist of this story. heck yeah. manipulation tactics sucessful! what more could one have asked for!
